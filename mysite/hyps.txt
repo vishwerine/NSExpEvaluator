@@ -1,0 +1,3 @@
+example hypothesis 1 - this is generated
+example hypothesis 2 - this is also generated
+example hypothesis 3 - this is also generated
